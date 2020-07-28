@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PreWork app</string>
+    <string name="change_text_color">Change Text Color</string>
+    <string name="hello_from_robert">Hello from Robert</string>
+    <string name="change_background_color">CHANGE BACKGROUND COLOR</string>
+    <string name="change_text">CHANGE TEXT</string>
+    <string name="hello_from_robertt">Hello from Robert!</string>
+
+</resources>
